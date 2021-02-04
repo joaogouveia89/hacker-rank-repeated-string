@@ -21,6 +21,5 @@ def repeated_string s, n
 			end
 		end
 	end
-	puts(occourences)
 	return occourences
 end
